@@ -32,7 +32,7 @@ Products are shipped from factories (**San Jose** and **Oakland**) through local
 1. **Clone the repository**
     ```bash
     git clone https://github.com/guroflux/supply-chain-optimization.git
-    cd regional-supply-chain
+    cd supply-chain-optimization
     ```
 
 2. **Install dependencies**  
