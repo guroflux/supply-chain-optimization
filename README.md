@@ -31,7 +31,7 @@ Products are shipped from factories (**San Jose** and **Oakland**) through local
 ### How to Run
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/guroflux/regional-supply-chain.git
+    git clone https://github.com/guroflux/supply-chain-optimization.git
     cd regional-supply-chain
     ```
 
@@ -46,7 +46,7 @@ Products are shipped from factories (**San Jose** and **Oakland**) through local
 
 4. **Open the Jupyter Notebook**
     ```bash
-    jupyter notebook Minimizing Costs in a Regional Supply Chain.ipynb 
+    jupyter notebook Minimizing_Costs_in_a_Regional_Supply_Chain.ipynb 
     ```
 
 5. **Run the notebook cells in order** to see the full model, data, and results.
